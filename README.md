@@ -42,7 +42,7 @@ Once the app is running in nodeJS,
 - To checkout the items, you will have to ``sign up/login``. 
 - Once you login you can checkout using the ``checkout`` button and it will redirect to stripe platform. 
 - You can also remove item from the cart using ``remove item`` button and it will be removed from the cart. 
-- Please feel free to use the app - <a href="" target="_blank">Link to the app</a>
+- Please feel free to use the app - <a href="https://polar-shelf-74989-edff765dad95.herokuapp.com/" target="_blank">Link to the app</a>
 <br>
 The screenshot for the project is mentioned below.
 
