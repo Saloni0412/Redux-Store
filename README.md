@@ -14,7 +14,7 @@ The Redux Store is a web application that allows users to buy items. This app en
 
 ## Technologies Used
 
-JATE is built using the following technologies:
+Redux Store is built using the following technologies:
 
 - HTML
 - CSS
