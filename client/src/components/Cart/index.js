@@ -72,13 +72,13 @@ const Cart = () => {
   }
 
   return (
-    <div className="cart">
+    <div className="cart carts">
       <div className="close" onClick={toggleCart}>
         [close]
       </div>
       <h2>Shopping Cart</h2>
       {state.cart.length ? (
-        <div>
+        <div >
           {state.cart.map((item) => (
             <CartItem key={item._id} item={item} />
           ))}
